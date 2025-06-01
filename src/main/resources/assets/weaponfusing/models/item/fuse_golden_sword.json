@@ -1,0 +1,2600 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 865
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-acacia_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 866
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-acacia_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 867
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-acacia_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 868
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-acacia_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 869
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-acacia_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 870
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-amethyst_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 871
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-angler_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 872
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 873
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-archer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 874
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-armor_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 875
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-arms_up_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 876
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 877
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-axolotl_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 878
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-baked_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 879
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bamboo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 880
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bamboo_chest_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 881
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bamboo_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 882
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bamboo_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 883
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bamboo_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 884
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bamboo_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 885
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 886
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 887
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-beetroot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-beetroot_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 889
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-beetroot_soup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 890
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 891
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-birch_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 892
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-birch_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 893
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-birch_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 894
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-birch_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 895
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-birch_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 896
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-black_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 897
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-black_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 898
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-blade_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 899
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-blaze_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 900
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-blaze_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 901
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 902
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 903
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 904
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bone_meal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 905
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 906
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 907
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 908
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 909
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-brewer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 910
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-brewing_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 911
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 912
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-broken_elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 913
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-brown_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 914
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-brown_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 915
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-brush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 916
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 917
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bundle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 918
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-bundle_filled"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 919
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-burn_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 920
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 921
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 922
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 923
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 924
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-carrot_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 925
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cauldron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 926
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-chain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 927
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-chainmail_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 928
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-chainmail_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 929
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-chainmail_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 930
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-chainmail_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 931
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-charcoal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 932
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cherry_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 933
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cherry_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 934
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cherry_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 935
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cherry_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 936
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cherry_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 937
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-chest_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 938
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 939
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 940
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-clay_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 941
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-clock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 942
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-coal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 943
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-coast_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 944
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cocoa_beans"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 945
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 946
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cod_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 947
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-command_block_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 948
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-comparator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 949
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 950
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cooked_beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 951
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cooked_chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 952
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cooked_cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 953
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cooked_mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 954
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cooked_porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 955
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cooked_rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 956
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cooked_salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 957
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cookie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 958
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-copper_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 959
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-creeper_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 960
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-crimson_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 961
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-crimson_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 962
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-crimson_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 963
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-crossbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 964
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-crossbow_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 965
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 966
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cyan_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 967
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-cyan_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 968
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-danger_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 969
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-dark_oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 970
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-dark_oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 971
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-dark_oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 972
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-dark_oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 973
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-dark_oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 974
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 975
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 976
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 977
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 978
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 979
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 982
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 983
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 984
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-diamond_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 985
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-disc_fragment_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 986
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-dragon_breath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 987
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-dried_kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 988
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-dune_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 989
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-echo_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 990
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 991
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 992
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 993
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-enchanted_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 994
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-ender_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 995
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 996
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-end_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 997
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-experience_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 998
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-explorer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 999
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-eye_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-feather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-fermented_spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-filled_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-filled_map_markings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-firework_rocket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-firework_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-firework_star_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-fire_charge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-fishing_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-flint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-flint_and_steel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-flower_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-flower_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-friend_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-furnace_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-ghast_tear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-glass_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1018
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-glistering_melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1019
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-globe_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1020
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-glowstone_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1021
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-glow_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1022
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-glow_ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1023
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-glow_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1024
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-goat_horn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1025
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1026
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1027
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1028
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1029
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1030
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1031
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1032
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1033
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1034
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1035
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1036
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-golden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1037
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-gold_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1038
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-gold_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1039
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1040
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1041
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-green_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1042
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-green_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1043
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-gunpowder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1044
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-heartbreak_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1045
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-heart_of_the_sea"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1046
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-heart_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1047
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-honeycomb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1048
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-honey_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1049
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-hopper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1050
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-hopper_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1051
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-host_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1052
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-howl_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1053
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1054
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1055
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1056
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1057
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1058
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1059
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1060
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1061
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1062
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1063
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1064
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1065
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1066
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-iron_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1067
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1068
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-jungle_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1069
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-jungle_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1070
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-jungle_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1071
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-jungle_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1072
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-jungle_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1073
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1074
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-knowledge_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1075
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1076
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1077
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-lava_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1078
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-lead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1079
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1080
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1081
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_boots_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1082
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1083
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_chestplate_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1084
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1085
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_helmet_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1086
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1087
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1088
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-leather_leggings_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1089
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1090
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_00"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1091
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1092
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1093
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1094
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1095
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1096
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_06"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1097
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_07"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1098
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1099
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1100
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1101
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1102
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1103
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1104
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1105
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1106
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1107
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1108
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1109
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-light_gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1110
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-lime_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1111
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-lime_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1112
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-lingering_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1113
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-magenta_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1114
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-magenta_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1115
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-magma_cream"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1116
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mangrove_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1117
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mangrove_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1118
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mangrove_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1119
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mangrove_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1120
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mangrove_propagule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1121
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mangrove_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1122
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1123
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-melon_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1124
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1125
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-milk_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1126
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1127
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-miner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1128
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mojang_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1129
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mourner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1130
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mushroom_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1131
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1132
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1133
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1134
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_blocks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1135
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1136
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_chirp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1137
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_far"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1138
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_mall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1139
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_mellohi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1140
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_otherside"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1141
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_pigstep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1142
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_relic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1143
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_stal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1144
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_strad"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1145
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_wait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1146
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-music_disc_ward"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1147
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1148
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-name_tag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1149
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-nautilus_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1150
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1151
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1152
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1153
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1154
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1155
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1156
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1157
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1158
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_scrap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1159
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1160
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1161
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-netherite_upgrade_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1162
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-nether_brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1163
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-nether_sprouts"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1164
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-nether_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1165
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-nether_wart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1166
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1167
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1168
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1169
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1170
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1171
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-orange_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1172
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-orange_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1173
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-painting"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1174
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-paper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1175
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-phantom_membrane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1176
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-piglin_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1177
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pink_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1178
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pink_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1179
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pink_petals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1180
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pitcher_plant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1181
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pitcher_pod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1182
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-plenty_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1183
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pointed_dripstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1184
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-poisonous_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1185
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-popped_chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1186
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1187
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1188
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1189
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-potion_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1190
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-powder_snow_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1191
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-prismarine_crystals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1192
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-prismarine_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1193
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-prize_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1194
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pufferfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1195
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pufferfish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1196
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pumpkin_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1197
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-pumpkin_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1198
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-purple_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1199
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-purple_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1200
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1201
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1202
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-rabbit_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1203
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-rabbit_hide"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1204
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-rabbit_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1205
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-raiser_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1206
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-raw_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1207
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-raw_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1208
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-raw_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1209
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-recovery_compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1210
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-redstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1211
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-red_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1212
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-red_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1213
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-repeater"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1214
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-rib_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1215
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-rotten_flesh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1216
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-saddle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1217
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1218
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-salmon_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1219
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-scute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1220
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-seagrass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1221
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-sea_pickle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1222
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-sentry_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1223
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-shaper_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1224
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-sheaf_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1225
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-shears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1226
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-shelter_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1227
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-shulker_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1228
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-silence_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1229
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-skull_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1230
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-skull_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1231
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-slime_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1232
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-sniffer_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1233
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-snort_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1234
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-snout_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1235
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-snowball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1236
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-soul_campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1237
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-soul_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1238
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spawn_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1239
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spawn_egg_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1240
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spectral_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1241
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1242
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spire_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1243
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-splash_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1244
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spruce_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1245
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spruce_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1246
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spruce_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1247
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spruce_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1248
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spruce_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1249
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spyglass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1250
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-spyglass_model"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1251
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1252
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-stone_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1253
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-stone_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1254
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-stone_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1255
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-stone_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1256
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-stone_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1257
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-string"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1258
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-structure_void"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1259
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-sugar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1260
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-sugar_cane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1261
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-suspicious_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1262
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-sweet_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1263
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-tadpole_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1264
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-tide_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1265
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-tipped_arrow_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1266
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-tipped_arrow_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1267
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-tnt_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1268
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-torchflower_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1269
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-totem_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1270
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1271
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-tropical_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1272
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-tropical_fish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1273
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-turtle_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1274
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-turtle_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1275
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-vex_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1276
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-ward_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1277
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-warped_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1278
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-warped_fungus_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1279
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-warped_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1280
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-warped_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1281
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-water_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1282
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wayfinder_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1283
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wheat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1284
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wheat_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1285
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-white_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1286
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-white_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1287
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wild_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1288
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wooden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1289
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wooden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1290
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wooden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1291
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wooden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1292
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-wooden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1293
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1294
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-written_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1295
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-yellow_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1296
+      },
+      "model": "weaponfusing:item/fused_models/golden_sword-yellow_dye"
+    }
+  ]
+}

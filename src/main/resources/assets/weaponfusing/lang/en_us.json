@@ -1,0 +1,10 @@
+{
+  "item.weaponfusing.fuse_wooden_sword": "Fused Wooden Sword",
+  "item.weaponfusing.fuse_stone_sword": "Fused Stone Sword",
+  "item.weaponfusing.fuse_iron_sword": "Fused Iron Sword",
+  "item.weaponfusing.fuse_golden_sword": "Fused Golden Sword",
+  "item.weaponfusing.fuse_diamond_sword": "Fused Diamond Sword",
+  "item.weaponfusing.fuse_netherite_sword": "Fused Netherite Sword",
+
+  "itemGroup.weaponfusing.fusion": "Fused Items"
+}

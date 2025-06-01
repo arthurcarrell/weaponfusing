@@ -1,0 +1,2600 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1729
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-acacia_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1730
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-acacia_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1731
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-acacia_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1732
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-acacia_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1733
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-acacia_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1734
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-amethyst_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1735
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-angler_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1736
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1737
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-archer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1738
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-armor_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1739
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-arms_up_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1740
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1741
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-axolotl_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1742
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-baked_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1743
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bamboo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1744
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bamboo_chest_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1745
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bamboo_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1746
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bamboo_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1747
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bamboo_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1748
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bamboo_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1749
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1750
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1751
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-beetroot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1752
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-beetroot_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1753
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-beetroot_soup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1754
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1755
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-birch_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1756
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-birch_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1757
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-birch_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1758
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-birch_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1759
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-birch_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1760
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-black_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1761
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-black_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1762
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-blade_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1763
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-blaze_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1764
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-blaze_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1765
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1766
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1767
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1768
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bone_meal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1769
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1770
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1771
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1772
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1773
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-brewer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1774
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-brewing_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1775
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1776
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-broken_elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1777
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-brown_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1778
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-brown_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1779
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-brush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1780
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1781
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bundle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1782
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-bundle_filled"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1783
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-burn_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1784
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1785
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1786
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1787
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1788
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-carrot_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1789
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cauldron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1790
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-chain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1791
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-chainmail_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1792
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-chainmail_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1793
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-chainmail_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1794
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-chainmail_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1795
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-charcoal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1796
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cherry_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1797
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cherry_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1798
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cherry_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1799
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cherry_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1800
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cherry_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1801
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-chest_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1802
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1803
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1804
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-clay_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1805
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-clock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1806
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-coal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1807
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-coast_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1808
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cocoa_beans"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1809
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1810
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cod_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1811
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-command_block_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1812
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-comparator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1813
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1814
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cooked_beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1815
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cooked_chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1816
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cooked_cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1817
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cooked_mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1818
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cooked_porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1819
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cooked_rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1820
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cooked_salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1821
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cookie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1822
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-copper_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1823
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-creeper_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1824
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-crimson_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1825
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-crimson_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1826
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-crimson_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1827
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-crossbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1828
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-crossbow_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1829
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1830
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cyan_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1831
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-cyan_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1832
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-danger_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1833
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-dark_oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1834
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-dark_oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1835
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-dark_oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1836
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-dark_oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1837
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-dark_oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1838
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1839
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1840
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1841
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1842
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1843
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1844
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1845
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1846
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1847
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1848
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-diamond_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1849
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-disc_fragment_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1850
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-dragon_breath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1851
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-dried_kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1852
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-dune_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1853
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-echo_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1854
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1855
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1856
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1857
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-enchanted_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1858
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-ender_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1859
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1860
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-end_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1861
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-experience_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1862
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-explorer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1863
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-eye_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1864
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-feather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1865
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-fermented_spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1866
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-filled_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1867
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-filled_map_markings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1868
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-firework_rocket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1869
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-firework_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1870
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-firework_star_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1871
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-fire_charge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1872
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-fishing_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1873
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1874
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-flint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1875
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-flint_and_steel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1876
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-flower_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1877
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-flower_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1878
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-friend_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1879
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-furnace_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1880
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-ghast_tear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1881
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-glass_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1882
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-glistering_melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1883
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-globe_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1884
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-glowstone_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1885
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-glow_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1886
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-glow_ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1887
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-glow_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1888
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-goat_horn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1889
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1890
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1891
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1892
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1893
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1894
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1895
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1896
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1897
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1898
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1899
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1900
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-golden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1901
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-gold_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1902
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-gold_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1903
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1904
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1905
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-green_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1906
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-green_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1907
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-gunpowder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1908
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-heartbreak_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1909
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-heart_of_the_sea"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1910
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-heart_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1911
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-honeycomb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1912
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-honey_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1913
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-hopper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1914
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-hopper_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1915
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-host_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1916
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-howl_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1917
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1918
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1919
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1920
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1921
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1922
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1923
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1924
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1925
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1926
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1927
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1928
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1929
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1930
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-iron_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1931
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1932
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-jungle_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1933
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-jungle_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1934
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-jungle_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1935
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-jungle_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1936
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-jungle_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1937
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1938
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-knowledge_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1939
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1940
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1941
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-lava_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1942
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-lead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1943
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1944
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1945
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_boots_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1946
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1947
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_chestplate_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1948
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1949
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_helmet_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1950
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1951
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1952
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-leather_leggings_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1953
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1954
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_00"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1955
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1956
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1957
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1958
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1959
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1960
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_06"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1961
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_07"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1962
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1963
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1964
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1965
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1966
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1967
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1968
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1969
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1970
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1971
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1972
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1973
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-light_gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1974
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-lime_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1975
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-lime_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1976
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-lingering_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1977
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-magenta_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1978
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-magenta_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1979
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-magma_cream"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1980
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mangrove_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1981
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mangrove_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1982
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mangrove_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1983
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mangrove_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1984
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mangrove_propagule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1985
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mangrove_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1986
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1987
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-melon_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1988
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1989
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-milk_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1990
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1991
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-miner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1992
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mojang_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1993
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mourner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1994
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mushroom_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1995
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1996
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1997
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1998
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_blocks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1999
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2000
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_chirp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2001
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_far"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_mall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2003
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_mellohi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2004
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_otherside"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2005
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_pigstep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2006
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_relic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2007
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_stal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2008
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_strad"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2009
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_wait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2010
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-music_disc_ward"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2011
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2012
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-name_tag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-nautilus_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2014
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2015
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2016
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2017
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2018
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2019
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2020
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2021
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2022
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_scrap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2023
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2024
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2025
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-netherite_upgrade_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2026
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-nether_brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2027
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-nether_sprouts"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2028
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-nether_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2029
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-nether_wart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2030
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2031
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2032
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2033
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2034
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2035
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-orange_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2036
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-orange_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2037
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-painting"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2038
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-paper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2039
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-phantom_membrane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2040
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-piglin_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2041
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pink_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2042
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pink_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2043
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pink_petals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2044
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pitcher_plant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2045
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pitcher_pod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2046
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-plenty_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2047
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pointed_dripstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2048
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-poisonous_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2049
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-popped_chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2050
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2051
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2052
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2053
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-potion_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2054
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-powder_snow_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2055
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-prismarine_crystals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2056
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-prismarine_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2057
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-prize_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2058
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pufferfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2059
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pufferfish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2060
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pumpkin_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2061
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-pumpkin_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2062
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-purple_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2063
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-purple_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2064
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2065
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2066
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-rabbit_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2067
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-rabbit_hide"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2068
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-rabbit_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2069
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-raiser_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2070
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-raw_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2071
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-raw_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2072
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-raw_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2073
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-recovery_compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2074
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-redstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2075
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-red_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2076
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-red_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2077
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-repeater"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2078
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-rib_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2079
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-rotten_flesh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2080
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-saddle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2081
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2082
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-salmon_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2083
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-scute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2084
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-seagrass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2085
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-sea_pickle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2086
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-sentry_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2087
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-shaper_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2088
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-sheaf_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2089
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-shears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2090
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-shelter_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2091
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-shulker_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2092
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-silence_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2093
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-skull_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2094
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-skull_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2095
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-slime_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2096
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-sniffer_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2097
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-snort_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2098
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-snout_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2099
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-snowball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2100
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-soul_campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2101
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-soul_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2102
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spawn_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2103
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spawn_egg_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2104
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spectral_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2105
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2106
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spire_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2107
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-splash_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2108
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spruce_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2109
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spruce_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2110
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spruce_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2111
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spruce_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2112
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spruce_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2113
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spyglass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2114
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-spyglass_model"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2115
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2116
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-stone_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2117
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-stone_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2118
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-stone_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2119
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-stone_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2120
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-stone_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2121
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-string"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2122
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-structure_void"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2123
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-sugar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2124
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-sugar_cane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2125
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-suspicious_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2126
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-sweet_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2127
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-tadpole_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2128
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-tide_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2129
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-tipped_arrow_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2130
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-tipped_arrow_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2131
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-tnt_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2132
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-torchflower_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2133
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-totem_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2134
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2135
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-tropical_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2136
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-tropical_fish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2137
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-turtle_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2138
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-turtle_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2139
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-vex_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2140
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-ward_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2141
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-warped_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2142
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-warped_fungus_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2143
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-warped_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2144
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-warped_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2145
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-water_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2146
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wayfinder_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2147
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wheat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2148
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wheat_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2149
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-white_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2150
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-white_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2151
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wild_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2152
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wooden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2153
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wooden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2154
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wooden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2155
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wooden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2156
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-wooden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2157
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2158
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-written_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2159
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-yellow_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2160
+      },
+      "model": "weaponfusing:item/fused_models/netherite_sword-yellow_dye"
+    }
+  ]
+}

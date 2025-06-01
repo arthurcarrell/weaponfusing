@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "weaponfusing",
+  "version": "${version}",
+  "name": "weaponfusing",
+  "description": "A minecraft mod that makes horses better and more like horses in Breath of the Wild.",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/weaponfusing/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.asteristired.weaponfusing.client.WeaponfusingDataGenerator"
+    ],
+    "client": [
+      "com.asteristired.weaponfusing.client.WeaponfusingClient"
+    ],
+    "main": [
+      "com.asteristired.weaponfusing.Weaponfusing"
+    ]
+  },
+  "mixins": [
+    "weaponfusing.mixins.json",
+    {
+      "config": "weaponfusing.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

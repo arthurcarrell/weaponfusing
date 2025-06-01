@@ -1,0 +1,2600 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2161
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-acacia_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2162
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-acacia_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2163
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-acacia_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2164
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-acacia_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2165
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-acacia_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2166
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-amethyst_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2167
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-angler_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2168
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2169
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-archer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2170
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-armor_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2171
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-arms_up_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2172
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2173
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-axolotl_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2174
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-baked_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2175
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bamboo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2176
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bamboo_chest_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2177
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bamboo_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2178
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bamboo_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2179
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bamboo_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2180
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bamboo_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2181
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2182
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2183
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-beetroot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2184
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-beetroot_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2185
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-beetroot_soup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2186
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2187
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-birch_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2188
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-birch_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2189
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-birch_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2190
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-birch_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2191
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-birch_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-black_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2193
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-black_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2194
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-blade_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2195
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-blaze_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2196
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-blaze_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2197
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2198
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2199
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2200
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bone_meal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2201
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2202
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2203
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2204
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2205
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-brewer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2206
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-brewing_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2207
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2208
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-broken_elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2209
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-brown_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2210
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-brown_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2211
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-brush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2212
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2213
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bundle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2214
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-bundle_filled"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2215
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-burn_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2216
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2217
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2218
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2219
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2220
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-carrot_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2221
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cauldron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2222
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-chain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2223
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-chainmail_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2224
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-chainmail_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2225
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-chainmail_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2226
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-chainmail_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2227
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-charcoal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2228
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cherry_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2229
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cherry_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2230
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cherry_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2231
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cherry_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2232
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cherry_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2233
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-chest_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2234
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2235
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2236
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-clay_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2237
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-clock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2238
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-coal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2239
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-coast_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2240
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cocoa_beans"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2241
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2242
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cod_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2243
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-command_block_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2244
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-comparator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2245
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2246
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cooked_beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2247
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cooked_chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2248
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cooked_cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2249
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cooked_mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2250
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cooked_porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2251
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cooked_rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2252
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cooked_salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2253
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cookie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2254
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-copper_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2255
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-creeper_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2256
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-crimson_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2257
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-crimson_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2258
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-crimson_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2259
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-crossbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2260
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-crossbow_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2261
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2262
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cyan_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2263
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-cyan_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2264
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-danger_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2265
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-dark_oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2266
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-dark_oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2267
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-dark_oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2268
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-dark_oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2269
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-dark_oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2270
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2271
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2272
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2273
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2274
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2275
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2276
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2277
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2278
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2279
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2280
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-diamond_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2281
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-disc_fragment_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2282
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-dragon_breath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2283
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-dried_kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2284
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-dune_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2285
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-echo_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2286
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2287
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2288
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2289
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-enchanted_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2290
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-ender_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2291
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2292
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-end_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2293
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-experience_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2294
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-explorer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2295
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-eye_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2296
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-feather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2297
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-fermented_spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2298
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-filled_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2299
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-filled_map_markings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2300
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-firework_rocket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2301
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-firework_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2302
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-firework_star_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2303
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-fire_charge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2304
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-fishing_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2305
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2306
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-flint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2307
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-flint_and_steel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2308
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-flower_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2309
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-flower_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2310
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-friend_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2311
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-furnace_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2312
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-ghast_tear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2313
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-glass_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2314
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-glistering_melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2315
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-globe_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2316
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-glowstone_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2317
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-glow_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2318
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-glow_ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2319
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-glow_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2320
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-goat_horn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2321
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2322
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2323
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2324
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2325
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2326
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2327
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2328
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2329
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2330
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2331
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2332
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-golden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2333
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-gold_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2334
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-gold_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2335
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2336
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2337
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-green_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2338
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-green_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2339
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-gunpowder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2340
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-heartbreak_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2341
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-heart_of_the_sea"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2342
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-heart_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2343
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-honeycomb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2344
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-honey_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2345
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-hopper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2346
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-hopper_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2347
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-host_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2348
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-howl_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2349
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2350
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2351
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2352
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2353
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2354
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2355
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2356
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2357
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2358
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2359
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2360
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2361
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2362
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-iron_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2363
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2364
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-jungle_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2365
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-jungle_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2366
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-jungle_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2367
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-jungle_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2368
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-jungle_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2369
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2370
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-knowledge_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2371
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2372
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2373
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-lava_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2374
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-lead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2375
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2376
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2377
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_boots_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2378
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2379
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_chestplate_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2380
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2381
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_helmet_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2382
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2383
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2384
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-leather_leggings_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2385
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2386
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_00"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2387
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2388
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2389
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2390
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2391
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2392
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_06"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2393
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_07"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2394
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2395
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2396
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2397
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2398
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2399
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2400
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2401
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2402
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2403
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2404
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2405
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-light_gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2406
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-lime_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2407
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-lime_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2408
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-lingering_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2409
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-magenta_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2410
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-magenta_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2411
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-magma_cream"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2412
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mangrove_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2413
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mangrove_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2414
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mangrove_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2415
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mangrove_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2416
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mangrove_propagule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2417
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mangrove_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2418
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2419
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-melon_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2420
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2421
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-milk_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2422
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2423
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-miner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2424
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mojang_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2425
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mourner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2426
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mushroom_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2427
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2428
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2429
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2430
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_blocks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2431
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2432
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_chirp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2433
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_far"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2434
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_mall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2435
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_mellohi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2436
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_otherside"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2437
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_pigstep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2438
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_relic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2439
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_stal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2440
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_strad"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2441
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_wait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2442
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-music_disc_ward"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2443
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2444
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-name_tag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2445
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-nautilus_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2446
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2447
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2448
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2449
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2450
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2451
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2452
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2453
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2454
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_scrap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2455
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2456
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2457
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-netherite_upgrade_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2458
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-nether_brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2459
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-nether_sprouts"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2460
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-nether_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2461
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-nether_wart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2462
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2463
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2464
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2465
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2466
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2467
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-orange_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2468
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-orange_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2469
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-painting"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2470
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-paper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2471
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-phantom_membrane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2472
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-piglin_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2473
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pink_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2474
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pink_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2475
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pink_petals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2476
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pitcher_plant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2477
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pitcher_pod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2478
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-plenty_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2479
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pointed_dripstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2480
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-poisonous_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2481
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-popped_chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2482
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2483
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2484
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2485
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-potion_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2486
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-powder_snow_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2487
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-prismarine_crystals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2488
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-prismarine_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2489
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-prize_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2490
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pufferfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2491
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pufferfish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2492
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pumpkin_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2493
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-pumpkin_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2494
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-purple_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2495
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-purple_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2496
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2497
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2498
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-rabbit_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2499
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-rabbit_hide"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2500
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-rabbit_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2501
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-raiser_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2502
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-raw_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2503
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-raw_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2504
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-raw_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2505
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-recovery_compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2506
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-redstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2507
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-red_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2508
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-red_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2509
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-repeater"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2510
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-rib_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2511
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-rotten_flesh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2512
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-saddle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2513
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2514
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-salmon_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2515
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-scute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2516
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-seagrass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2517
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-sea_pickle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2518
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-sentry_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2519
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-shaper_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2520
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-sheaf_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2521
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-shears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2522
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-shelter_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2523
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-shulker_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2524
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-silence_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2525
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-skull_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2526
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-skull_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2527
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-slime_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2528
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-sniffer_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2529
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-snort_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2530
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-snout_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2531
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-snowball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2532
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-soul_campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2533
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-soul_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2534
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spawn_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2535
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spawn_egg_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2536
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spectral_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2537
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2538
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spire_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2539
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-splash_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2540
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spruce_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2541
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spruce_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2542
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spruce_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2543
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spruce_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2544
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spruce_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2545
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spyglass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2546
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-spyglass_model"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2547
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2548
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-stone_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2549
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-stone_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2550
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-stone_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2551
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-stone_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2552
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-stone_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2553
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-string"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2554
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-structure_void"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2555
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-sugar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2556
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-sugar_cane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2557
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-suspicious_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2558
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-sweet_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2559
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-tadpole_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2560
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-tide_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2561
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-tipped_arrow_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2562
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-tipped_arrow_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2563
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-tnt_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2564
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-torchflower_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2565
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-totem_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2566
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2567
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-tropical_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2568
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-tropical_fish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2569
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-turtle_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2570
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-turtle_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2571
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-vex_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2572
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-ward_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2573
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-warped_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2574
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-warped_fungus_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2575
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-warped_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2576
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-warped_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2577
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-water_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2578
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wayfinder_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2579
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wheat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2580
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wheat_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2581
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-white_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2582
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-white_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2583
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wild_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2584
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wooden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2585
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wooden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2586
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wooden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2587
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wooden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2588
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-wooden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2589
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2590
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-written_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2591
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-yellow_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2592
+      },
+      "model": "weaponfusing:item/fused_models/stone_sword-yellow_dye"
+    }
+  ]
+}

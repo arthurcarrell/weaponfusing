@@ -1,0 +1,2600 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1297
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-acacia_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1298
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-acacia_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1299
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-acacia_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1300
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-acacia_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1301
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-acacia_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1302
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-amethyst_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1303
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-angler_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1304
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1305
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-archer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1306
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-armor_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1307
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-arms_up_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1308
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1309
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-axolotl_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1310
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-baked_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1311
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bamboo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1312
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bamboo_chest_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1313
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bamboo_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1314
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bamboo_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1315
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bamboo_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1316
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bamboo_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1317
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1318
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1319
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-beetroot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1320
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-beetroot_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1321
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-beetroot_soup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1322
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1323
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-birch_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1324
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-birch_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1325
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-birch_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1326
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-birch_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1327
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-birch_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1328
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-black_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1329
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-black_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1330
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-blade_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1331
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-blaze_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1332
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-blaze_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1333
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1334
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1335
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1336
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bone_meal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1338
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1339
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1340
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1341
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-brewer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1342
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-brewing_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1343
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1344
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-broken_elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1345
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-brown_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1346
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-brown_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1347
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-brush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1348
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1349
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bundle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1350
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-bundle_filled"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1351
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-burn_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1352
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1353
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1354
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1355
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1356
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-carrot_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1357
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cauldron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1358
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-chain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1359
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-chainmail_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1360
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-chainmail_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1361
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-chainmail_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1362
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-chainmail_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1363
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-charcoal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1364
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cherry_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1365
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cherry_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1366
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cherry_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1367
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cherry_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1368
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cherry_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1369
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-chest_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1370
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1371
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1372
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-clay_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1373
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-clock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1374
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-coal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1375
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-coast_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1376
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cocoa_beans"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1377
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1378
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cod_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1379
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-command_block_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1380
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-comparator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1381
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1382
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cooked_beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1383
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cooked_chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1384
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cooked_cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1385
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cooked_mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1386
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cooked_porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1387
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cooked_rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1388
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cooked_salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1389
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cookie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1390
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-copper_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1391
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-creeper_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1392
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-crimson_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1393
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-crimson_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1394
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-crimson_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1395
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-crossbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1396
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-crossbow_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1397
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1398
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cyan_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1399
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-cyan_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1400
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-danger_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1401
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-dark_oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1402
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-dark_oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1403
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-dark_oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1404
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-dark_oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1405
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-dark_oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1406
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1407
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1408
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1409
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1410
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1411
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1412
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1413
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1414
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1415
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1416
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-diamond_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1417
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-disc_fragment_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1418
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-dragon_breath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1419
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-dried_kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1420
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-dune_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1421
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-echo_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1422
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1423
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1424
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1425
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-enchanted_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1426
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-ender_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1427
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1428
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-end_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1429
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-experience_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1430
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-explorer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1431
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-eye_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1432
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-feather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1433
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-fermented_spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1434
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-filled_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1435
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-filled_map_markings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1436
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-firework_rocket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1437
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-firework_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1438
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-firework_star_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1439
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-fire_charge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1440
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-fishing_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1441
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1442
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-flint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1443
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-flint_and_steel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1444
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-flower_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1445
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-flower_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1446
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-friend_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1447
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-furnace_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1448
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-ghast_tear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1449
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-glass_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1450
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-glistering_melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1451
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-globe_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1452
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-glowstone_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1453
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-glow_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1454
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-glow_ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1455
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-glow_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1456
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-goat_horn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1457
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1458
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1459
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1460
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1461
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1462
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1463
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1464
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1465
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1466
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1467
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1468
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-golden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1469
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-gold_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1470
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-gold_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1471
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1472
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1473
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-green_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1474
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-green_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1475
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-gunpowder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1476
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-heartbreak_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1477
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-heart_of_the_sea"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1478
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-heart_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1479
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-honeycomb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1480
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-honey_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1481
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-hopper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1482
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-hopper_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1483
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-host_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1484
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-howl_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1485
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1486
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1487
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1488
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1489
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1490
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1491
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1492
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1493
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1494
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1495
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1496
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1497
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1498
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-iron_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1499
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1500
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-jungle_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1501
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-jungle_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1502
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-jungle_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1503
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-jungle_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1504
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-jungle_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1505
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1506
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-knowledge_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1507
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1508
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1509
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-lava_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1510
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-lead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1511
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1512
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1513
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_boots_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1514
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1515
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_chestplate_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1516
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1517
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_helmet_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1518
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1519
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1520
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-leather_leggings_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1521
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1522
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_00"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1523
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1524
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1525
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1526
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1527
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1528
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_06"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1529
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_07"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1530
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1531
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1532
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1533
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1534
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1535
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1536
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1537
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1538
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1539
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1540
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1541
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-light_gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1542
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-lime_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1543
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-lime_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1544
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-lingering_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1545
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-magenta_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1546
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-magenta_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1547
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-magma_cream"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1548
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mangrove_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1549
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mangrove_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1550
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mangrove_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1551
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mangrove_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1552
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mangrove_propagule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1553
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mangrove_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1554
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1555
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-melon_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1556
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1557
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-milk_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1558
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1559
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-miner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1560
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mojang_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1561
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mourner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1562
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mushroom_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1563
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1564
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1565
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1566
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_blocks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1567
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1568
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_chirp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1569
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_far"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1570
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_mall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1571
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_mellohi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1572
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_otherside"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1573
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_pigstep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1574
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_relic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1575
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_stal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1576
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_strad"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1577
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_wait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1578
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-music_disc_ward"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1579
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1580
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-name_tag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1581
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-nautilus_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1582
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1583
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1584
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1585
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1586
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1587
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1588
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1589
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1590
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_scrap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1591
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1592
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1593
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-netherite_upgrade_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1594
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-nether_brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1595
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-nether_sprouts"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1596
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-nether_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1597
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-nether_wart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1598
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1599
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1600
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1601
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1602
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1603
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-orange_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1604
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-orange_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1605
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-painting"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1606
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-paper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1607
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-phantom_membrane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1608
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-piglin_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1609
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pink_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1610
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pink_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1611
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pink_petals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1612
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pitcher_plant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1613
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pitcher_pod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1614
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-plenty_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1615
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pointed_dripstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1616
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-poisonous_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1617
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-popped_chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1618
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1619
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1620
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1621
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-potion_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1622
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-powder_snow_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1623
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-prismarine_crystals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1624
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-prismarine_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1625
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-prize_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1626
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pufferfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1627
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pufferfish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1628
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pumpkin_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1629
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-pumpkin_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1630
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-purple_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1631
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-purple_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1632
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1633
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1634
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-rabbit_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1635
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-rabbit_hide"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1636
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-rabbit_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1637
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-raiser_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1638
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-raw_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1639
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-raw_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1640
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-raw_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1641
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-recovery_compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1642
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-redstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1643
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-red_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1644
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-red_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1645
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-repeater"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1646
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-rib_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1647
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-rotten_flesh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1648
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-saddle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1649
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1650
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-salmon_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1651
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-scute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1652
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-seagrass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1653
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-sea_pickle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1654
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-sentry_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1655
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-shaper_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1656
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-sheaf_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1657
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-shears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1658
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-shelter_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1659
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-shulker_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1660
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-silence_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1661
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-skull_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1662
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-skull_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1663
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-slime_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1664
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-sniffer_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1665
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-snort_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1666
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-snout_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1667
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-snowball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1668
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-soul_campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1669
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-soul_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1670
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spawn_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1671
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spawn_egg_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1672
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spectral_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1673
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1674
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spire_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1675
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-splash_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1676
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spruce_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1677
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spruce_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1678
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spruce_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1679
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spruce_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1680
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spruce_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1681
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spyglass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1682
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-spyglass_model"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1683
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1684
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-stone_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1685
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-stone_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1686
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-stone_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1687
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-stone_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1688
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-stone_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1689
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-string"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1690
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-structure_void"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1691
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-sugar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1692
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-sugar_cane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1693
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-suspicious_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-sweet_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1695
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-tadpole_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1696
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-tide_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1697
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-tipped_arrow_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1698
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-tipped_arrow_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1699
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-tnt_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1700
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-torchflower_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1701
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-totem_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1702
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1703
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-tropical_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1704
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-tropical_fish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1705
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-turtle_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1706
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-turtle_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1707
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-vex_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1708
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-ward_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1709
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-warped_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1710
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-warped_fungus_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1711
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-warped_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1712
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-warped_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1713
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-water_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1714
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wayfinder_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1715
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wheat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1716
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wheat_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1717
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-white_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1718
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-white_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1719
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wild_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1720
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wooden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1721
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wooden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1722
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wooden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1723
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wooden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1724
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-wooden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1725
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1726
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-written_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1727
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-yellow_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1728
+      },
+      "model": "weaponfusing:item/fused_models/iron_sword-yellow_dye"
+    }
+  ]
+}
