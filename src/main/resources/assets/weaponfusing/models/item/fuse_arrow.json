@@ -1,0 +1,2600 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/arrow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "weaponfusing:item/fused_models/arrow-acacia_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "weaponfusing:item/fused_models/arrow-acacia_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "weaponfusing:item/fused_models/arrow-acacia_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "weaponfusing:item/fused_models/arrow-acacia_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "weaponfusing:item/fused_models/arrow-acacia_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "weaponfusing:item/fused_models/arrow-amethyst_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "weaponfusing:item/fused_models/arrow-angler_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "weaponfusing:item/fused_models/arrow-apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "weaponfusing:item/fused_models/arrow-archer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "weaponfusing:item/fused_models/arrow-armor_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "weaponfusing:item/fused_models/arrow-arms_up_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "weaponfusing:item/fused_models/arrow-arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "weaponfusing:item/fused_models/arrow-axolotl_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "weaponfusing:item/fused_models/arrow-baked_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bamboo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bamboo_chest_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bamboo_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bamboo_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bamboo_raft"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bamboo_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "weaponfusing:item/fused_models/arrow-barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "weaponfusing:item/fused_models/arrow-beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "weaponfusing:item/fused_models/arrow-beetroot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "weaponfusing:item/fused_models/arrow-beetroot_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "weaponfusing:item/fused_models/arrow-beetroot_soup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "weaponfusing:item/fused_models/arrow-birch_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "weaponfusing:item/fused_models/arrow-birch_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "weaponfusing:item/fused_models/arrow-birch_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "weaponfusing:item/fused_models/arrow-birch_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "weaponfusing:item/fused_models/arrow-birch_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "weaponfusing:item/fused_models/arrow-black_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "weaponfusing:item/fused_models/arrow-black_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "weaponfusing:item/fused_models/arrow-blade_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "weaponfusing:item/fused_models/arrow-blaze_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "weaponfusing:item/fused_models/arrow-blaze_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "weaponfusing:item/fused_models/arrow-blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "weaponfusing:item/fused_models/arrow-blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bone_meal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "weaponfusing:item/fused_models/arrow-book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "weaponfusing:item/fused_models/arrow-brewer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "weaponfusing:item/fused_models/arrow-brewing_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "weaponfusing:item/fused_models/arrow-brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "weaponfusing:item/fused_models/arrow-broken_elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "weaponfusing:item/fused_models/arrow-brown_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "weaponfusing:item/fused_models/arrow-brown_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "weaponfusing:item/fused_models/arrow-brush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bundle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "weaponfusing:item/fused_models/arrow-bundle_filled"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "weaponfusing:item/fused_models/arrow-burn_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "weaponfusing:item/fused_models/arrow-campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "weaponfusing:item/fused_models/arrow-candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "weaponfusing:item/fused_models/arrow-carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "weaponfusing:item/fused_models/arrow-carrot_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cauldron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "weaponfusing:item/fused_models/arrow-chain"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "weaponfusing:item/fused_models/arrow-chainmail_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "weaponfusing:item/fused_models/arrow-chainmail_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "weaponfusing:item/fused_models/arrow-chainmail_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "weaponfusing:item/fused_models/arrow-chainmail_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "weaponfusing:item/fused_models/arrow-charcoal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cherry_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cherry_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cherry_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cherry_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cherry_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "weaponfusing:item/fused_models/arrow-chest_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "weaponfusing:item/fused_models/arrow-chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "weaponfusing:item/fused_models/arrow-chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "weaponfusing:item/fused_models/arrow-clay_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "weaponfusing:item/fused_models/arrow-clock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "weaponfusing:item/fused_models/arrow-coal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "weaponfusing:item/fused_models/arrow-coast_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cocoa_beans"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cod_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "weaponfusing:item/fused_models/arrow-command_block_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "weaponfusing:item/fused_models/arrow-comparator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "weaponfusing:item/fused_models/arrow-compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cooked_beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cooked_chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cooked_cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cooked_mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cooked_porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cooked_rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cooked_salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cookie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "weaponfusing:item/fused_models/arrow-copper_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "weaponfusing:item/fused_models/arrow-creeper_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "weaponfusing:item/fused_models/arrow-crimson_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "weaponfusing:item/fused_models/arrow-crimson_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "weaponfusing:item/fused_models/arrow-crimson_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "weaponfusing:item/fused_models/arrow-crossbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "weaponfusing:item/fused_models/arrow-crossbow_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "weaponfusing:item/fused_models/arrow-crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cyan_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "weaponfusing:item/fused_models/arrow-cyan_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "weaponfusing:item/fused_models/arrow-danger_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "weaponfusing:item/fused_models/arrow-dark_oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "weaponfusing:item/fused_models/arrow-dark_oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "weaponfusing:item/fused_models/arrow-dark_oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "weaponfusing:item/fused_models/arrow-dark_oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "weaponfusing:item/fused_models/arrow-dark_oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "weaponfusing:item/fused_models/arrow-diamond_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "weaponfusing:item/fused_models/arrow-disc_fragment_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "weaponfusing:item/fused_models/arrow-dragon_breath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "weaponfusing:item/fused_models/arrow-dried_kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "weaponfusing:item/fused_models/arrow-dune_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "weaponfusing:item/fused_models/arrow-echo_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 126
+      },
+      "model": "weaponfusing:item/fused_models/arrow-egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 127
+      },
+      "model": "weaponfusing:item/fused_models/arrow-elytra"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 128
+      },
+      "model": "weaponfusing:item/fused_models/arrow-emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 129
+      },
+      "model": "weaponfusing:item/fused_models/arrow-enchanted_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130
+      },
+      "model": "weaponfusing:item/fused_models/arrow-ender_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 131
+      },
+      "model": "weaponfusing:item/fused_models/arrow-ender_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 132
+      },
+      "model": "weaponfusing:item/fused_models/arrow-end_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 133
+      },
+      "model": "weaponfusing:item/fused_models/arrow-experience_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 134
+      },
+      "model": "weaponfusing:item/fused_models/arrow-explorer_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 135
+      },
+      "model": "weaponfusing:item/fused_models/arrow-eye_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 136
+      },
+      "model": "weaponfusing:item/fused_models/arrow-feather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 137
+      },
+      "model": "weaponfusing:item/fused_models/arrow-fermented_spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 138
+      },
+      "model": "weaponfusing:item/fused_models/arrow-filled_map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 139
+      },
+      "model": "weaponfusing:item/fused_models/arrow-filled_map_markings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140
+      },
+      "model": "weaponfusing:item/fused_models/arrow-firework_rocket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 141
+      },
+      "model": "weaponfusing:item/fused_models/arrow-firework_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 142
+      },
+      "model": "weaponfusing:item/fused_models/arrow-firework_star_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 143
+      },
+      "model": "weaponfusing:item/fused_models/arrow-fire_charge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 144
+      },
+      "model": "weaponfusing:item/fused_models/arrow-fishing_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 145
+      },
+      "model": "weaponfusing:item/fused_models/arrow-fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 146
+      },
+      "model": "weaponfusing:item/fused_models/arrow-flint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 147
+      },
+      "model": "weaponfusing:item/fused_models/arrow-flint_and_steel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 148
+      },
+      "model": "weaponfusing:item/fused_models/arrow-flower_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 149
+      },
+      "model": "weaponfusing:item/fused_models/arrow-flower_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150
+      },
+      "model": "weaponfusing:item/fused_models/arrow-friend_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 151
+      },
+      "model": "weaponfusing:item/fused_models/arrow-furnace_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152
+      },
+      "model": "weaponfusing:item/fused_models/arrow-ghast_tear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153
+      },
+      "model": "weaponfusing:item/fused_models/arrow-glass_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 154
+      },
+      "model": "weaponfusing:item/fused_models/arrow-glistering_melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155
+      },
+      "model": "weaponfusing:item/fused_models/arrow-globe_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 156
+      },
+      "model": "weaponfusing:item/fused_models/arrow-glowstone_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 157
+      },
+      "model": "weaponfusing:item/fused_models/arrow-glow_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 158
+      },
+      "model": "weaponfusing:item/fused_models/arrow-glow_ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 159
+      },
+      "model": "weaponfusing:item/fused_models/arrow-glow_item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 160
+      },
+      "model": "weaponfusing:item/fused_models/arrow-goat_horn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 161
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 162
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 163
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 164
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_carrot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 165
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 166
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 167
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 168
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 169
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 170
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 171
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 172
+      },
+      "model": "weaponfusing:item/fused_models/arrow-golden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 173
+      },
+      "model": "weaponfusing:item/fused_models/arrow-gold_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 174
+      },
+      "model": "weaponfusing:item/fused_models/arrow-gold_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 175
+      },
+      "model": "weaponfusing:item/fused_models/arrow-gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 176
+      },
+      "model": "weaponfusing:item/fused_models/arrow-gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 177
+      },
+      "model": "weaponfusing:item/fused_models/arrow-green_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 178
+      },
+      "model": "weaponfusing:item/fused_models/arrow-green_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 179
+      },
+      "model": "weaponfusing:item/fused_models/arrow-gunpowder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 180
+      },
+      "model": "weaponfusing:item/fused_models/arrow-heartbreak_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 181
+      },
+      "model": "weaponfusing:item/fused_models/arrow-heart_of_the_sea"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 182
+      },
+      "model": "weaponfusing:item/fused_models/arrow-heart_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 183
+      },
+      "model": "weaponfusing:item/fused_models/arrow-honeycomb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 184
+      },
+      "model": "weaponfusing:item/fused_models/arrow-honey_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 185
+      },
+      "model": "weaponfusing:item/fused_models/arrow-hopper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 186
+      },
+      "model": "weaponfusing:item/fused_models/arrow-hopper_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 187
+      },
+      "model": "weaponfusing:item/fused_models/arrow-host_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 188
+      },
+      "model": "weaponfusing:item/fused_models/arrow-howl_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 189
+      },
+      "model": "weaponfusing:item/fused_models/arrow-ink_sac"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 190
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 191
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 192
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 193
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 194
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 195
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 196
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 197
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 198
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 199
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 200
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 201
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 202
+      },
+      "model": "weaponfusing:item/fused_models/arrow-iron_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 203
+      },
+      "model": "weaponfusing:item/fused_models/arrow-item_frame"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 204
+      },
+      "model": "weaponfusing:item/fused_models/arrow-jungle_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 205
+      },
+      "model": "weaponfusing:item/fused_models/arrow-jungle_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 206
+      },
+      "model": "weaponfusing:item/fused_models/arrow-jungle_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 207
+      },
+      "model": "weaponfusing:item/fused_models/arrow-jungle_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 208
+      },
+      "model": "weaponfusing:item/fused_models/arrow-jungle_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 209
+      },
+      "model": "weaponfusing:item/fused_models/arrow-kelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 210
+      },
+      "model": "weaponfusing:item/fused_models/arrow-knowledge_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 211
+      },
+      "model": "weaponfusing:item/fused_models/arrow-lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 212
+      },
+      "model": "weaponfusing:item/fused_models/arrow-lapis_lazuli"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 213
+      },
+      "model": "weaponfusing:item/fused_models/arrow-lava_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 214
+      },
+      "model": "weaponfusing:item/fused_models/arrow-lead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 215
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 216
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 217
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_boots_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 218
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 219
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_chestplate_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 220
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 221
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_helmet_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 222
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_horse_armor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 223
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 224
+      },
+      "model": "weaponfusing:item/fused_models/arrow-leather_leggings_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 225
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 226
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_00"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 227
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 228
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 229
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 230
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 231
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_05"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 232
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_06"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 233
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_07"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 234
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 235
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 236
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 237
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 238
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 239
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 240
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 241
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 242
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_blue_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 243
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_blue_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 244
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_gray_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 245
+      },
+      "model": "weaponfusing:item/fused_models/arrow-light_gray_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 246
+      },
+      "model": "weaponfusing:item/fused_models/arrow-lime_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 247
+      },
+      "model": "weaponfusing:item/fused_models/arrow-lime_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 248
+      },
+      "model": "weaponfusing:item/fused_models/arrow-lingering_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 249
+      },
+      "model": "weaponfusing:item/fused_models/arrow-magenta_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 250
+      },
+      "model": "weaponfusing:item/fused_models/arrow-magenta_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 251
+      },
+      "model": "weaponfusing:item/fused_models/arrow-magma_cream"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 252
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mangrove_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 253
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mangrove_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 254
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mangrove_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 255
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mangrove_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 256
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mangrove_propagule"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 257
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mangrove_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 258
+      },
+      "model": "weaponfusing:item/fused_models/arrow-map"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 259
+      },
+      "model": "weaponfusing:item/fused_models/arrow-melon_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260
+      },
+      "model": "weaponfusing:item/fused_models/arrow-melon_slice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 261
+      },
+      "model": "weaponfusing:item/fused_models/arrow-milk_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 262
+      },
+      "model": "weaponfusing:item/fused_models/arrow-minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 263
+      },
+      "model": "weaponfusing:item/fused_models/arrow-miner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 264
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mojang_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 265
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mourner_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 266
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mushroom_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 267
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 268
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 269
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 270
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_blocks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 271
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 272
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_chirp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 273
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_far"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 274
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_mall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 275
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_mellohi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 276
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_otherside"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 277
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_pigstep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 278
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_relic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 279
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_stal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 280
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_strad"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 281
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_wait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 282
+      },
+      "model": "weaponfusing:item/fused_models/arrow-music_disc_ward"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 283
+      },
+      "model": "weaponfusing:item/fused_models/arrow-mutton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 284
+      },
+      "model": "weaponfusing:item/fused_models/arrow-name_tag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 285
+      },
+      "model": "weaponfusing:item/fused_models/arrow-nautilus_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 286
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 287
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 288
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 289
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 290
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 291
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 292
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_leggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 293
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 294
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_scrap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 295
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 296
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 297
+      },
+      "model": "weaponfusing:item/fused_models/arrow-netherite_upgrade_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 298
+      },
+      "model": "weaponfusing:item/fused_models/arrow-nether_brick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 299
+      },
+      "model": "weaponfusing:item/fused_models/arrow-nether_sprouts"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 300
+      },
+      "model": "weaponfusing:item/fused_models/arrow-nether_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 301
+      },
+      "model": "weaponfusing:item/fused_models/arrow-nether_wart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 302
+      },
+      "model": "weaponfusing:item/fused_models/arrow-oak_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 303
+      },
+      "model": "weaponfusing:item/fused_models/arrow-oak_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 304
+      },
+      "model": "weaponfusing:item/fused_models/arrow-oak_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 305
+      },
+      "model": "weaponfusing:item/fused_models/arrow-oak_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 306
+      },
+      "model": "weaponfusing:item/fused_models/arrow-oak_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 307
+      },
+      "model": "weaponfusing:item/fused_models/arrow-orange_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 308
+      },
+      "model": "weaponfusing:item/fused_models/arrow-orange_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 309
+      },
+      "model": "weaponfusing:item/fused_models/arrow-painting"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 310
+      },
+      "model": "weaponfusing:item/fused_models/arrow-paper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 311
+      },
+      "model": "weaponfusing:item/fused_models/arrow-phantom_membrane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 312
+      },
+      "model": "weaponfusing:item/fused_models/arrow-piglin_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 313
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pink_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 314
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pink_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 315
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pink_petals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 316
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pitcher_plant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 317
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pitcher_pod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 318
+      },
+      "model": "weaponfusing:item/fused_models/arrow-plenty_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 319
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pointed_dripstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 320
+      },
+      "model": "weaponfusing:item/fused_models/arrow-poisonous_potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 321
+      },
+      "model": "weaponfusing:item/fused_models/arrow-popped_chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 322
+      },
+      "model": "weaponfusing:item/fused_models/arrow-porkchop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 323
+      },
+      "model": "weaponfusing:item/fused_models/arrow-potato"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 324
+      },
+      "model": "weaponfusing:item/fused_models/arrow-potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 325
+      },
+      "model": "weaponfusing:item/fused_models/arrow-potion_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 326
+      },
+      "model": "weaponfusing:item/fused_models/arrow-powder_snow_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 327
+      },
+      "model": "weaponfusing:item/fused_models/arrow-prismarine_crystals"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 328
+      },
+      "model": "weaponfusing:item/fused_models/arrow-prismarine_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 329
+      },
+      "model": "weaponfusing:item/fused_models/arrow-prize_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pufferfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 331
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pufferfish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 332
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pumpkin_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 333
+      },
+      "model": "weaponfusing:item/fused_models/arrow-pumpkin_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 334
+      },
+      "model": "weaponfusing:item/fused_models/arrow-purple_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 335
+      },
+      "model": "weaponfusing:item/fused_models/arrow-purple_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 336
+      },
+      "model": "weaponfusing:item/fused_models/arrow-quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 337
+      },
+      "model": "weaponfusing:item/fused_models/arrow-rabbit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338
+      },
+      "model": "weaponfusing:item/fused_models/arrow-rabbit_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339
+      },
+      "model": "weaponfusing:item/fused_models/arrow-rabbit_hide"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 340
+      },
+      "model": "weaponfusing:item/fused_models/arrow-rabbit_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 341
+      },
+      "model": "weaponfusing:item/fused_models/arrow-raiser_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 342
+      },
+      "model": "weaponfusing:item/fused_models/arrow-raw_copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 343
+      },
+      "model": "weaponfusing:item/fused_models/arrow-raw_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 344
+      },
+      "model": "weaponfusing:item/fused_models/arrow-raw_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 345
+      },
+      "model": "weaponfusing:item/fused_models/arrow-recovery_compass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 346
+      },
+      "model": "weaponfusing:item/fused_models/arrow-redstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 347
+      },
+      "model": "weaponfusing:item/fused_models/arrow-red_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 348
+      },
+      "model": "weaponfusing:item/fused_models/arrow-red_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 349
+      },
+      "model": "weaponfusing:item/fused_models/arrow-repeater"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350
+      },
+      "model": "weaponfusing:item/fused_models/arrow-rib_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 351
+      },
+      "model": "weaponfusing:item/fused_models/arrow-rotten_flesh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 352
+      },
+      "model": "weaponfusing:item/fused_models/arrow-saddle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 353
+      },
+      "model": "weaponfusing:item/fused_models/arrow-salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 354
+      },
+      "model": "weaponfusing:item/fused_models/arrow-salmon_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 355
+      },
+      "model": "weaponfusing:item/fused_models/arrow-scute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 356
+      },
+      "model": "weaponfusing:item/fused_models/arrow-seagrass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 357
+      },
+      "model": "weaponfusing:item/fused_models/arrow-sea_pickle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 358
+      },
+      "model": "weaponfusing:item/fused_models/arrow-sentry_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 359
+      },
+      "model": "weaponfusing:item/fused_models/arrow-shaper_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 360
+      },
+      "model": "weaponfusing:item/fused_models/arrow-sheaf_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 361
+      },
+      "model": "weaponfusing:item/fused_models/arrow-shears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 362
+      },
+      "model": "weaponfusing:item/fused_models/arrow-shelter_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 363
+      },
+      "model": "weaponfusing:item/fused_models/arrow-shulker_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 364
+      },
+      "model": "weaponfusing:item/fused_models/arrow-silence_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 365
+      },
+      "model": "weaponfusing:item/fused_models/arrow-skull_banner_pattern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 366
+      },
+      "model": "weaponfusing:item/fused_models/arrow-skull_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 367
+      },
+      "model": "weaponfusing:item/fused_models/arrow-slime_ball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 368
+      },
+      "model": "weaponfusing:item/fused_models/arrow-sniffer_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 369
+      },
+      "model": "weaponfusing:item/fused_models/arrow-snort_pottery_sherd"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 370
+      },
+      "model": "weaponfusing:item/fused_models/arrow-snout_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 371
+      },
+      "model": "weaponfusing:item/fused_models/arrow-snowball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 372
+      },
+      "model": "weaponfusing:item/fused_models/arrow-soul_campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 373
+      },
+      "model": "weaponfusing:item/fused_models/arrow-soul_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 374
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spawn_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 375
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spawn_egg_overlay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 376
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spectral_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 377
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spider_eye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 378
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spire_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 379
+      },
+      "model": "weaponfusing:item/fused_models/arrow-splash_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 380
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spruce_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 381
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spruce_chest_boat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 382
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spruce_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 383
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spruce_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 384
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spruce_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 385
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spyglass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 386
+      },
+      "model": "weaponfusing:item/fused_models/arrow-spyglass_model"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 387
+      },
+      "model": "weaponfusing:item/fused_models/arrow-stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 388
+      },
+      "model": "weaponfusing:item/fused_models/arrow-stone_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 389
+      },
+      "model": "weaponfusing:item/fused_models/arrow-stone_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 390
+      },
+      "model": "weaponfusing:item/fused_models/arrow-stone_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 391
+      },
+      "model": "weaponfusing:item/fused_models/arrow-stone_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 392
+      },
+      "model": "weaponfusing:item/fused_models/arrow-stone_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393
+      },
+      "model": "weaponfusing:item/fused_models/arrow-string"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 394
+      },
+      "model": "weaponfusing:item/fused_models/arrow-structure_void"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 395
+      },
+      "model": "weaponfusing:item/fused_models/arrow-sugar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 396
+      },
+      "model": "weaponfusing:item/fused_models/arrow-sugar_cane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 397
+      },
+      "model": "weaponfusing:item/fused_models/arrow-suspicious_stew"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 398
+      },
+      "model": "weaponfusing:item/fused_models/arrow-sweet_berries"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 399
+      },
+      "model": "weaponfusing:item/fused_models/arrow-tadpole_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 400
+      },
+      "model": "weaponfusing:item/fused_models/arrow-tide_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 401
+      },
+      "model": "weaponfusing:item/fused_models/arrow-tipped_arrow_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 402
+      },
+      "model": "weaponfusing:item/fused_models/arrow-tipped_arrow_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 403
+      },
+      "model": "weaponfusing:item/fused_models/arrow-tnt_minecart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 404
+      },
+      "model": "weaponfusing:item/fused_models/arrow-torchflower_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 405
+      },
+      "model": "weaponfusing:item/fused_models/arrow-totem_of_undying"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 406
+      },
+      "model": "weaponfusing:item/fused_models/arrow-trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 407
+      },
+      "model": "weaponfusing:item/fused_models/arrow-tropical_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 408
+      },
+      "model": "weaponfusing:item/fused_models/arrow-tropical_fish_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 409
+      },
+      "model": "weaponfusing:item/fused_models/arrow-turtle_egg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 410
+      },
+      "model": "weaponfusing:item/fused_models/arrow-turtle_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 411
+      },
+      "model": "weaponfusing:item/fused_models/arrow-vex_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 412
+      },
+      "model": "weaponfusing:item/fused_models/arrow-ward_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 413
+      },
+      "model": "weaponfusing:item/fused_models/arrow-warped_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 414
+      },
+      "model": "weaponfusing:item/fused_models/arrow-warped_fungus_on_a_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 415
+      },
+      "model": "weaponfusing:item/fused_models/arrow-warped_hanging_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 416
+      },
+      "model": "weaponfusing:item/fused_models/arrow-warped_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 417
+      },
+      "model": "weaponfusing:item/fused_models/arrow-water_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 418
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wayfinder_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 419
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wheat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 420
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wheat_seeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 421
+      },
+      "model": "weaponfusing:item/fused_models/arrow-white_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 422
+      },
+      "model": "weaponfusing:item/fused_models/arrow-white_dye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 423
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wild_armor_trim_smithing_template"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 424
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wooden_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 425
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wooden_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 426
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wooden_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 427
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wooden_shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 428
+      },
+      "model": "weaponfusing:item/fused_models/arrow-wooden_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 429
+      },
+      "model": "weaponfusing:item/fused_models/arrow-writable_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 430
+      },
+      "model": "weaponfusing:item/fused_models/arrow-written_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 431
+      },
+      "model": "weaponfusing:item/fused_models/arrow-yellow_candle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 432
+      },
+      "model": "weaponfusing:item/fused_models/arrow-yellow_dye"
+    }
+  ]
+}
