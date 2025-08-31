@@ -6,5 +6,25 @@
   "item.weaponfusing.fuse_diamond_sword": "Fused Diamond Sword",
   "item.weaponfusing.fuse_netherite_sword": "Fused Netherite Sword",
 
-  "itemGroup.weaponfusing.fusion": "Fused Items"
+  "effect.weaponfusing.frozen": "Frozen",
+  "effect.weaponfusing.shock": "Shocked",
+  "effect.weaponfusing.cc_immune": "Unstoppable",
+
+  "itemGroup.weaponfusing.fusion": "Fused Items",
+
+  "tooltip.weaponfusing.damage.normal": "§c\uD83D\uDDE1§r Normal Damage",
+  "tooltip.weaponfusing.damage.high": "§c\uD83D\uDDE1§r High Damage",
+  "tooltip.weaponfusing.damage.very_high": "§c\uD83D\uDDE1§r Very High Damage",
+  "tooltip.weaponfusing.damage.insanely_high": "§c\uD83D\uDDE1§r Massive Damage",
+
+  "tooltip.weaponfusing.effect.flaming": "§6\uD83D\uDD25§r Flaming",
+  "tooltip.weaponfusing.effect.shocking": "§e⚡§r Shocking",
+  "tooltip.weaponfusing.effect.freezing": "§b❄§r Freezing",
+  "tooltip.weaponfusing.effect.can_be_eaten": "§6\uD83C\uDF56§r Restores Hunger",
+
+  "tooltip.weaponfusing.durability": "Durability: %s / %d",
+  "tooltip.weaponfusing.consumable": "❌ Consumable",
+
+  "category.weaponfusing": "Weapon Fusing",
+  "key.weaponfusing.fuse": "Fuse with Weapon"
 }

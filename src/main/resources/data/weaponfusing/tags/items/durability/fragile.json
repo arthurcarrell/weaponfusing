@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:candles",
+    "minecraft:end_crystal",
+    "minecraft:heart_of_the_sea",
+    "minecraft:nether_star",
+    "minecraft:flint_and_steel",
+    "minecraft:blaze_powder",
+    "#weaponfusing:effects/can_be_eaten"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:brick",
+    "minecraft:nether_brick",
+    "minecraft:ender_pearl",
+    "minecraft:snowball",
+    "minecraft:tnt_minecart",
+    "#minecraft:decorated_pot_ingredients",
+    "minecraft:nautilus_shell"
+  ]
+}

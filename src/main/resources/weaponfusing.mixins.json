@@ -4,6 +4,7 @@
   "package": "com.asteristired.weaponfusing.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "FrozenTrackerMixin"
   ],
   "injectors": {
     "defaultRequire": 1

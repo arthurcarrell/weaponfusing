@@ -36,5 +36,10 @@ public class ItemList {
         return allItems.indexOf(Registries.ITEM.getId(fuseItem).toString())+offset;
     }
 
+    public static boolean IsInList(ItemStack stack) {
+        String itemID = Registries.ITEM.getId(stack.getItem()).toString();
+        return allItems.contains(itemID);
+    }
+
 
 }

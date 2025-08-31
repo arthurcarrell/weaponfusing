@@ -19,6 +19,8 @@ import static com.asteristired.weaponfusing.Weaponfusing.MOD_ID;
 
 public class ModItems {
 
+    public static Item FUSED_SWORD = Register(new FuseItem(ToolMaterials.DIAMOND, 3, -2.4f,  new Item.Settings().rarity(Rarity.UNCOMMON), Items.DIAMOND_SWORD ), "fused_sword");
+
     public static Item FUSE_WOODEN_SWORD = Register(new WoodenSwordFuseItem(new Item.Settings()
             .rarity(Rarity.UNCOMMON)
     ), "fuse_wooden_sword");

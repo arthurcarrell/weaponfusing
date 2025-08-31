@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snowball",
+    "minecraft:powder_snow_bucket",
+    "minecraft:lapis_lazuli"
+  ]
+}

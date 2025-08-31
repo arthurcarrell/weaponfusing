@@ -5,6 +5,6 @@ import net.minecraft.item.ToolMaterials;
 
 public class DiamondSwordFuseItem extends FuseItem {
     public DiamondSwordFuseItem(Settings settings) {
-        super(ToolMaterials.DIAMOND, 6, -2.4f,  settings, Items.DIAMOND_SWORD);
+        super(ToolMaterials.DIAMOND, 3, -2.4f,  settings, Items.DIAMOND_SWORD);
     }
 }

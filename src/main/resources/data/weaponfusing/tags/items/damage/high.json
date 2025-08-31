@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:amethyst_shard",
+    "#minecraft:axes",
+    "#minecraft:hoes",
+    "#minecraft:pickaxes",
+    "#minecraft:shovels",
+    "#minecraft:swords",
+    "minecraft:blaze_rod",
+    "minecraft:disc_fragment_5",
+    "minecraft:iron_door",
+    "minecraft:minecart",
+    "minecraft:hopper_minecart",
+    "minecraft:chest_minecart",
+    "minecraft:furnace_minecart",
+    "minecraft:tnt_minecart",
+    "minecraft:bell",
+    "#minecraft:decorated_pot_ingredients",
+    "minecraft:netherite_ingot"
+  ]
+}

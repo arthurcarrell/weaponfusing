@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:prismarine_shard",
+    "minecraft:copper_ingot",
+    "minecraft:redstone",
+    "minecraft:comparator",
+    "minecraft:repeater"
+  ]
+}
